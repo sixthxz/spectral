@@ -9,4 +9,5 @@ Numerical and structural audit of coordinate behavior in the completed zeta func
 - /props      — propositions and controlled vocabulary
 - /viz	      — Visualizations
 
-Do not focus in the labels, focus in the data and the behaviour of the data.
+Note: 
+This toy was generated with AI assistance, meaning code and props have AI interpretation, do not focus in labels or symbolic-semantic layers, focus in the data and the behaviour of the data.
